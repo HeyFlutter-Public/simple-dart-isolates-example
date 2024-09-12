@@ -1,4 +1,4 @@
-# simple_isolate
+# Simple Dart Isolates Example
 
 A new Flutter project.
 
